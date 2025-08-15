@@ -4,6 +4,14 @@ server:
 theme:
   # Note: assets are cached by the browser, changes to the CSS file
   # will not be reflected until the browser cache is cleared (Ctrl+F5)
+  theme:
+  # Catpuccin Mocha theme
+  # - Uses Hue Saturation Lightness values
+  background-color: 240 21 15
+  contrast-multiplier: 1.2
+  primary-color: 115 54 76
+  positive-color: 115 54 76
+  negative-color: 347 70 65
   custom-css-file: /assets/user.css
 
 pages:
