@@ -18,10 +18,6 @@
 # Center Column -----------------------------------------------------
     - size: full
       widgets:
-        - type: group
-          widgets:
-            - type: hacker-news
-            - type: lobsters
 
         - type: videos
           channels:
