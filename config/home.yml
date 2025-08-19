@@ -44,4 +44,14 @@
           hour-format: 24h # alternatively "12h"
           # Optionally hide the location from being displayed in the widget
           # hide-location: true
+        - type: monitor
+          cache: 1m
+          title: Services
+          sites:
+            - title: Jellyfin
+              url: https://yourdomain.com/
+              icon: si:jellyfin
+            - title: Calibre Web
+              url: https://yourdomain.com/
+              icon: si:calibreweb
 
