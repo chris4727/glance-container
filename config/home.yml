@@ -2,6 +2,7 @@
   # Optionally, if you only have a single page you can hide the desktop navigation for a cleaner look
   # hide-desktop-navigation: true
   columns:
+# Left Column -----------------------------------------------------
     - size: small
       widgets:
         - type: calendar
@@ -30,6 +31,7 @@
             - christitustech
             - EJ_SA
 
+# Center Column -----------------------------------------------------
     - size: full
       widgets:
         - type: group
@@ -54,6 +56,7 @@
               subreddit: selfhosted
               show-thumbnails: true
 
+# Right Column -----------------------------------------------------
     - size: small
       widgets:
         - type: weather
