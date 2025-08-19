@@ -7,7 +7,6 @@
       widgets:
         - type: calendar
           first-day-of-week: monday
-
         - type: rss
           limit: 10
           collapse-after: 3
