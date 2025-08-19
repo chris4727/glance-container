@@ -15,21 +15,6 @@
           feeds:
             - url: https://selfh.st/rss/
               title: selfh.st
-            - url: https://ciechanow.ski/atom.xml
-            - url: https://www.joshwcomeau.com/rss.xml
-              title: Josh Comeau
-            - url: https://samwho.dev/rss.xml
-            - url: https://ishadeed.com/feed.xml
-              title: Ahmad Shadeed
-
-        - type: twitch-channels
-          channels:
-            - theprimeagen
-            - j_blow
-            - giantwaffle
-            - cohhcarnage
-            - christitustech
-            - EJ_SA
 
 # Center Column -----------------------------------------------------
     - size: full
